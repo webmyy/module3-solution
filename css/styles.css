@@ -117,15 +117,12 @@ body {
 
   /* End Header */
 
-}
-/*part two*/
-
 
 #header-nav{background-color:black;}
 .row{border:1px solid black;
 padding:20px;}
 
-.menu-content{
+#adj1, #adj2, #adj3{
 background-color:gray;
 margin-bottom:20px;
 }
